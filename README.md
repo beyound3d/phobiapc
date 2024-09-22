@@ -1,5 +1,5 @@
 # phobiapc
-# how to fast and clean pc with time
+## how to fast and clean pc with time
 ```
 tree
 prefetch
@@ -12,5 +12,9 @@ prefetch
 - 
 - you can increase your pc FPS by system system properties i.e help you to increase smooth game play and better performance
 - 
+## disk clean up 
+```
+cleanmgr
+```
 
 
